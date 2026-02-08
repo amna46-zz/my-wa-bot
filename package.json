@@ -1,0 +1,13 @@
+{
+  "name": "my-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Command Bot",
+  "main": "index.js",
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
